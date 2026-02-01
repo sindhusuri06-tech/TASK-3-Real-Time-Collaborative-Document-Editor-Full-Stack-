@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 30px;
+}
+
+textarea {
+  width: 80%;
+  height: 200px;
+  padding: 10px;
+  font-size: 14px;
+}
+
+#status {
+  margin-top: 10px;
+  color: green;
+}
